@@ -9,7 +9,7 @@ Recent developments in hyperspectral satellites have dramatically promoted the w
 
 <hr>
 
-<div align=center><img src="./Figure/architecture.png?raw=True" width="800" > </div>
+<div align=center><img src="./Figure/architecture.jpg?raw=True" width="800" > </div>
 
 ####  <center> Architecture of MFGNet
 
